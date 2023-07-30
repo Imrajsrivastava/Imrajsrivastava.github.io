@@ -18,7 +18,7 @@ export default function Navbar({ handleClick, boolean }) {
       <div id="logo-nav">
         <h1 className="nav-link home">
           <a className="sauce name rubber" href="#home">
-           RajSrivastava
+           Raj
           </a>
         </h1>
         <div className="ham-container">
@@ -59,10 +59,17 @@ export default function Navbar({ handleClick, boolean }) {
           </a>
         </li>
       </ul>
-      <button href={resume} 
+      {/* <button href={resume} 
       onClick={handleDownload} 
       rel="noreferrer" download={'Raj_Srivastava_Resume'} id="resume-button-1" className="contact-button nav-link resume resume-button second-btn">
-        Resume</button>
+        Resume</button> */}
+        {/* <a  href={resume} download="../resume/Raj_Srivastava_Resume" id="resume-button-1" className="nav-link resume"><button onClick={handleDownload}
+        id="resume-button-2" className="contact-button resume-button second-btn nav-link resume">Resume</button></a> */}
+
+<a href={resume} 
+      onClick={handleDownload} 
+      rel="noreferrer" download={'Raj_Srivastava_Resume'} id="resume-button-1" className="contact-button nav-link resume resume-button second-btn">
+        <button id="resume-button-1" className="contact-button resume-button second-btn"> Resume</button></a>
     </nav>
   );
 }

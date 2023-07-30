@@ -23,7 +23,7 @@ export default function Contact() {
             href="mailto: rajsri4485@gmail.com"
           >
             
-            Connect with me -Email
+            Send an Email
           </a>
         </div>
         <div id="contact-phone" className="button-container">
@@ -32,7 +32,7 @@ export default function Contact() {
             href="tel:+919140614485"
           >
            
-            Connect with me -Phone
+            Make Contact
           </a>
         </div>
       </div>

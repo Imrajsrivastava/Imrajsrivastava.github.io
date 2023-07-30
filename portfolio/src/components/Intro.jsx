@@ -12,7 +12,7 @@ export default function Intro({ handleClick, boolean }) {
         if (boolean === false) handleClick();
       }}
     >
-      <div className="home-img-cont">
+      <div className="home-img-cont" style={{marginTop:"8px"}}>
         <div class="outer-circle circle circle-1">
           <span class="sq sq-1"></span>
           <span class="inner-circle circle">
@@ -53,9 +53,8 @@ export default function Intro({ handleClick, boolean }) {
           <div className="info">
             As a MERN stack developer, I specialize in creating web applications
             using the powerful combination of MongoDB, Express.js, React.js, and
-            Node.js. With expertise in both front-end and back-end development,
-            I bring seamless functionality, dynamic user interfaces, and
-            efficient data management to deliver robust and scalable solutions.
+            Node.js. With expertise in both front-end and back-end development.
+            
           </div>
         </div>
         <div className="button-container">

@@ -25,15 +25,21 @@ export default function About() {
           , a proficient full stack web developer. 
           My expertise spans across HTML5, CSS3, JavaScript, ReactJs, NodeJs, Express, and I'm well-versed in working with database 
           technologies like MongoDB. My true passion lies in crafting websites that not only boast impressive aesthetics but also elicit 
-          exclamations of delight from users. I strive for excellence and pay meticulous attention to detail, enabling me to conquer even 
-          the most intricate coding challenges. When I'm not engrossed in coding, I love immersing myself in the latest tech trends and 
-          exploring new possibilities in the digital world.
+          exclamations of delight from users. I strive for excellence and pay meticulous attention to detail, enabling me to conquer even the most intricate coding challenges. 
+          
             <br />
           </p>
           <br />
         </div>
-        <button onClick={handleDownload} rel="noreferrer" href={resume} download={"Raj_Srivastava_Resume"} id="resume-button-2" className="contact-button resume-button second-btn">
-          Resume</button>
+        {/* <button onClick={handleDownload} rel="noreferrer" href={resume} download={"Raj_Srivastava_Resume"} id="resume-button-2" className="contact-button resume-button second-btn">
+          Resume</button> */}
+
+{/* <a  href={resume} download="../resume/Raj_Srivastava_Resume"><button onClick={handleDownload}
+        id="resume-button-1" className="contact-button resume-button second-btn">Resume</button></a> 
+        */}
+
+<a onClick={handleDownload} rel="noreferrer" href={resume} download={"Raj_Srivastava_Resume"} id="resume-button-2" className="contact-button resume-button second-btn"><button id="resume-button-1" className="contact-button resume-button second-btn"> Resume</button>
+          </a>
       </div>
     </section>
   );
