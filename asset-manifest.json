@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c81a6416.css",
-    "main.js": "/static/js/main.11b334d8.js",
+    "main.js": "/static/js/main.33f226bc.js",
     "static/media/Raj_Srivastava_Resume.pdf": "/static/media/Raj_Srivastava_Resume.df14ec7ab81e9569cc87.pdf",
     "static/media/hotstarimg.png": "/static/media/hotstarimg.5bb89a6d6fa7fc16371f.png",
     "static/media/cryptoApp.png": "/static/media/cryptoApp.0b50ed8ee6eea1a24da4.png",
@@ -12,10 +12,10 @@
     "static/media/ebayImg.png": "/static/media/ebayImg.cd4cedd73be87339fd83.png",
     "index.html": "/index.html",
     "main.c81a6416.css.map": "/static/css/main.c81a6416.css.map",
-    "main.11b334d8.js.map": "/static/js/main.11b334d8.js.map"
+    "main.33f226bc.js.map": "/static/js/main.33f226bc.js.map"
   },
   "entrypoints": [
     "static/css/main.c81a6416.css",
-    "static/js/main.11b334d8.js"
+    "static/js/main.33f226bc.js"
   ]
 }
