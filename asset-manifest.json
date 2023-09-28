@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.d9ff27e5.css",
-    "main.js": "/static/js/main.d8c57646.js",
+    "main.js": "/static/js/main.3218bf6b.js",
     "static/media/hotstarimg.png": "/static/media/hotstarimg.5bb89a6d6fa7fc16371f.png",
     "static/media/cryptoApp.png": "/static/media/cryptoApp.0b50ed8ee6eea1a24da4.png",
     "static/media/portimg2.png": "/static/media/portimg2.befe4ced7e6747c8ed66.png",
@@ -9,13 +9,13 @@
     "static/media/skinstoreImg.png": "/static/media/skinstoreImg.b46393d87df48c300665.png",
     "static/media/ebayImg.png": "/static/media/ebayImg.cd4cedd73be87339fd83.png",
     "static/media/Raj_Srivastava_Resume.pdf": "/static/media/Raj_Srivastava_Resume.9dba757d82bc528c5ce7.pdf",
-    "static/media/myimage.jpg": "/static/media/myimage.6cf21e280fc9e94ffb5c.jpg",
+    "static/media/myimage.jpg": "/static/media/myimage.9e477d5884377c152c98.jpg",
     "index.html": "/index.html",
     "main.d9ff27e5.css.map": "/static/css/main.d9ff27e5.css.map",
-    "main.d8c57646.js.map": "/static/js/main.d8c57646.js.map"
+    "main.3218bf6b.js.map": "/static/js/main.3218bf6b.js.map"
   },
   "entrypoints": [
     "static/css/main.d9ff27e5.css",
-    "static/js/main.d8c57646.js"
+    "static/js/main.3218bf6b.js"
   ]
 }
